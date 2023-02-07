@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I+am+Suryansh+and+Welcome+to+my+Github!" align="middle" alt="Hey, I'm Suryansh Ahuja and Welcome to my Github" width="100%"/>
 
-<img src="./assets/borderseparator.gif" width="100%"/>
-
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and Passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Coding! </h2><br>
 
 * 👨‍💻 I'm Suryansh Ahuja(@MrSlothCodes)👋, a school student, I'm currently doing my +1 study with science stream in India. <br><br><br>
