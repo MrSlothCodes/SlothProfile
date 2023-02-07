@@ -2,11 +2,11 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and Passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Coding! </h2><br>
 
-* 👨‍💻 I'm Suryansh Ahuja(@MrSlothCodes)👋, a school student, I'm currently doing my +1 study with science stream in India. <br><br><br>
-* 🌳 I’m currently learning Web3 <br><br><br>
-* 🐾 I’m looking to learn more here <br><br><br>
-* 🌊 2023 Goals: Contribute to Open Source Projects and complete a game <br><br><br>
-* ☕ Interest: Game Devlopment, Networking, Hacking, and Coding. <br><br><br>
+* 👨‍💻 I'm Suryansh Ahuja(@MrSlothCodes)👋, a school student, I'm currently doing my +1 study with science stream in India. <br><br>
+* 🌳 I’m currently learning Web3 <br><br>
+* 🐾 I’m looking to learn more here <br><br>
+* 🌊 2023 Goals: Contribute to Open Source Projects and complete a game <br><br>
+* ☕ Interest: Game Devlopment, Networking, Hacking, and Coding. <br><br>
 * :octocat: Hobbies: Blender,Gamedev, Reading and Coding. <br><br>
 <h2></h2>
 
@@ -22,7 +22,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSlothCodes&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-  <img src="https://streak-stats.demolab.com?user=MrSlothCodes&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=MrSlothCodes&theme=tokyonight" height="150" alt="streaks graph" />
 
 </div> 
 
