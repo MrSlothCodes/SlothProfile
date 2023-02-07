@@ -22,7 +22,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSlothCodes&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-  <img src="https://streak-stats.demolab.com?user=MrSlothCodes&theme=tokyonight" height="150" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=MrSlothCodes&theme=windows-dark" height="150" alt="streaks graph" />
 
 </div> 
 
