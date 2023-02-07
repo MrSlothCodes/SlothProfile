@@ -18,7 +18,10 @@
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=MrSlothCodes&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-
+ <p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSlothCodes&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
   <img src="https://streak-stats.demolab.com?user=MrSlothCodes&theme=radical" height="150" alt="streaks graph" />
 
 </div> 
