@@ -2,7 +2,7 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Coding! </h2><br>
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and Passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Coding! </h2><br>
 
 * 👨‍💻 I'm Suryansh Ahuja(@MrSlothCodes)👋, a school student, I'm currently doing my +1 study with science stream in India. <br><br><br>
 * 🌳 I’m currently learning Web3 <br><br><br>
