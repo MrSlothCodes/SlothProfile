@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I+am+Suryansh+and+Welcome+to+my+Github!" align="middle" alt="Hey, I'm Suryansh Ahuja and Welcome to my Github" width="100%"/>
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I+am+Suryansh+and+Welcome+to+my+Github!](https://readme-typing-svg.demolab.com?font=Comic+Sans&pause=1000&color=3572A5&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hey+%2CI+am+Suryansh+Ahuja;Welcome+To+My+Github!)" align="middle" alt="Hey, I'm Suryansh Ahuja and Welcome to my Github" width="100%"/>
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and Passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Coding! </h2><br>
 
