@@ -1,1 +1,34 @@
-# SlothProfile
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I+am+Suryansh+Ahuja+and+Welcome+to+my+Github!" align="middle" alt="Hey, I'm Suryansh Ahuja and Welcome to my Github" width="100%"/>
+
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+
+* 👨‍💻 I'm Suryansh Ahuja(@MrSlothCodes)👋, a school student, I'm currently doing my +1 study with science stream in India. <br><br><br>
+* 🌳 I’m currently learning Web3 <br><br><br>
+* 🐾 I’m looking to learn more here <br><br><br>
+* 🌊 2023 Goals: Contribute to Open Source Projects and complete a game <br><br><br>
+* ☕ Interest: Game Devlopment, Networking, Hacking, and Coding. <br><br><br>
+* :octocat: Hobbies: Blender,Gamedev, Reading and Coding. <br><br>
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+ 
+<div align="center">
+
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AnantMishra01&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+
+  <img src="https://streak-stats.demolab.com?user=AnantMishra01&theme=radical" height="150" alt="streaks graph" />
+
+</div> 
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+
+  
