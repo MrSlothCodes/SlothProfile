@@ -6,8 +6,8 @@
 * 🌳 I’m currently learning Web3 <br><br>
 * 🐾 I’m looking to learn more here <br><br>
 * 🌊 2023 Goals: Contribute to Open Source Projects and complete a game <br><br>
-* ☕ Interest: Game Devlopment, Networking, Hacking, and Coding. <br><br>
-* :octocat: Hobbies: Blender,Gamedev, Reading and Coding. <br><br>
+* ☕ Interest: Editing,3d modeling and Coding. <br><br>
+* :octocat: Hobbies: Gamedev, Reading and Coding. <br><br>
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
