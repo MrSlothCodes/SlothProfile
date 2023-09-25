@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=17&pause=75&color=2C77DF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hey+%2CI+am+Suryansh+Ahuja;Welcome+To+My+Github!" align="middle" alt="Hey, I'm Suryansh Ahuja and Welcome to my Github" width="100%"/>
 
-* 👨‍💻 it's me slothh , The Game Dev <br><br>
 * 🌳 I’m currently learning Game Development <br><br>
 * 🐾 I’m looking to learn more here <br><br>
 * 🌊 2023 Goals: Contribute to Open Source Projects and complete a game <br><br>
